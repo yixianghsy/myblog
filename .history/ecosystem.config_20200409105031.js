@@ -28,6 +28,7 @@ module.exports = {
       user : 'root',
       host: '120.24.80.45',
       ref  : 'origin/master',
+      // repo : 'git@github.com:xd-eric/myblog.git',
       repo: ' git@github.com:yixianghsy/myblog.git',
       path : '/usr/local/myProject',
       ssh_options: "StrictHostKeyChecking=no",
